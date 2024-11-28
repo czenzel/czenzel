@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/czenzel](https://github.com/czenzel)
 
-- 📝 I regularly write articles on [https://chriszenzel.com](https://chriszenzel.com)
+- 📝 I regularly write articles on [https://onevenerate.com](https://onevenerate.com)
 
 - 💬 Ask me about **C#, .NET, Xamarin, MAUI, iOS, Android, Bluetooth, Wearables**
 
 - 📫 How to reach me **savannah@arendellekingdom.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/chriszenzel](https://linkedin.com/in/chriszenzel)
+- 📄 Know about my experiences [https://linkedin.com/in/czenzel](https://linkedin.com/in/czenzel)
 
 - ⚡ Fun fact **I teach on Udemy!**
 
