@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **C#, .NET, Xamarin, MAUI, iOS, Android, Bluetooth, Wearables**
 
-- 📫 How to reach me **savannah@arendellekingdom.com**
-
 - 📄 Know about my experiences [https://linkedin.com/in/czenzel](https://linkedin.com/in/czenzel)
 
 - ⚡ Fun fact **I teach on Udemy!**
