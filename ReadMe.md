@@ -5,23 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czenzel" alt="czenzel" /></a> </p>
 
-- 🔭 I’m currently working with [Hapbee](https://hapbee.com)
-
-- 🌱 I’m currently learning **Flutter, Dart, and Azure Cognitive Services**
-
-- 👨‍💻 All of my projects are available at [https://github.com/czenzel](https://github.com/czenzel)
-
-- 📝 I regularly write articles on [https://onevenerate.com](https://onevenerate.com)
-
-- 💬 Ask me about **C#, .NET, Xamarin, MAUI, iOS, Android, Bluetooth, Wearables**
-
-- 📄 Know about my experiences [https://linkedin.com/in/czenzel](https://linkedin.com/in/czenzel)
-
-- ⚡ Fun fact **I teach on Udemy!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chriszenzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chriszenzel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/czenzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="czenzel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
