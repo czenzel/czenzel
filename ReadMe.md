@@ -10,8 +10,6 @@ I'm a pragmatic full-stack developer focusing on delivering robust applications 
 
 ## 📈 Profile Analytics & Activity
 
-These badges dynamically update to show your recent activity and profile views.
-
 <!-- 10. PROFILE VIEW TRACKER -->
 [![Profile Views](https://komarev.com/ghpvc/?username=czenzel&color=blueviolet&style=for-the-badge)](https://github.com/czenzel)
 
@@ -93,8 +91,6 @@ For visualizing data and developing analytical models:
 ---
 
 ## 🌟 GitHub Activity and Statistics
-
-These cards are pulled from free, third-party services and are configured for a great look.
 
 | GitHub Stats Card | GitHub Streak Card | 
 | ----- | ----- | 
